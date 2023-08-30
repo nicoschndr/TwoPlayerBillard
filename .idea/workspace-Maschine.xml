@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b94c184a-fe29-4835-8261-da8195309853" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2IuGqxkjglxRaYRpsiKuoeYUtUZ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/nico-/OneDrive - mni.thm.de/PiS/Billard&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="Pool" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pool.poolView.Pool" />
+      <module name="Billard" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pool.poolView.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Pool" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b94c184a-fe29-4835-8261-da8195309853" name="Changes" comment="" />
+      <created>1671024254393</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1671024254393</updated>
+      <workItem from="1671024255817" duration="4565000" />
+      <workItem from="1671095745803" duration="298000" />
+      <workItem from="1671186702030" duration="4492000" />
+      <workItem from="1671205443832" duration="2219000" />
+      <workItem from="1671273153631" duration="1426000" />
+      <workItem from="1671277286393" duration="4903000" />
+      <workItem from="1671444446586" duration="1262000" />
+      <workItem from="1671447322389" duration="2142000" />
+      <workItem from="1671537355063" duration="38000" />
+      <workItem from="1671539703334" duration="4953000" />
+      <workItem from="1671621573528" duration="596000" />
+      <workItem from="1671828443415" duration="595000" />
+      <workItem from="1672500161459" duration="892000" />
+      <workItem from="1672659383905" duration="95000" />
+      <workItem from="1672751930583" duration="14417000" />
+      <workItem from="1672771831949" duration="2190000" />
+      <workItem from="1672774348998" duration="1500000" />
+      <workItem from="1673021822577" duration="17000" />
+      <workItem from="1673103293940" duration="3793000" />
+      <workItem from="1673120074636" duration="25000" />
+      <workItem from="1673120106885" duration="50000" />
+      <workItem from="1673120164345" duration="2000000" />
+      <workItem from="1673178588604" duration="4109000" />
+      <workItem from="1673185571515" duration="6365000" />
+      <workItem from="1673192966832" duration="580000" />
+      <workItem from="1673203141125" duration="159000" />
+      <workItem from="1673263115023" duration="5806000" />
+      <workItem from="1673437552856" duration="6437000" />
+      <workItem from="1673454786739" duration="643000" />
+      <workItem from="1673519215437" duration="9355000" />
+      <workItem from="1673547286791" duration="139000" />
+      <workItem from="1673605916580" duration="5217000" />
+      <workItem from="1673616140748" duration="2665000" />
+      <workItem from="1673864308743" duration="6129000" />
+      <workItem from="1673874353329" duration="22951000" />
+      <workItem from="1673901044678" duration="18000" />
+      <workItem from="1673914650796" duration="754000" />
+      <workItem from="1673951370820" duration="19782000" />
+      <workItem from="1673972134139" duration="17641000" />
+      <workItem from="1673991486804" duration="595000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
